@@ -5,7 +5,7 @@ In this project, different manufacturers' shoulder implants are classified with 
 For the dataset "Shoulder Implant X-Ray Manufacturer Classification Data Set" is used from Stark et al. (2018) [1] and Urban et al. (2020) [2] works.
 
 ## Results
-![result](https://github.com/icgencel/Dissimilarity-Between-Shoulder-Implants-with-Siamese-Neural-Network/blob/main/results.png?raw=true)
+![result](https://github.com/icgncl/Dissimilarity-Between-Shoulder-Implants-with-Siamese-Neural-Network/blob/main/results.png?raw=true)
 
 
 ## References
