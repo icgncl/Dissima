@@ -6,6 +6,7 @@ For the dataset "Shoulder Implant X-Ray Manufacturer Classification Data Set" is
 
 ## Results
 The results can be improved by adding more images to datasets.
+
 ![result](https://github.com/icgncl/Dissimilarity-Between-Shoulder-Implants-with-Siamese-Neural-Network/blob/main/results.png?raw=true)
 
 
